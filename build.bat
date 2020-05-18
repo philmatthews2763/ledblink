@@ -7,4 +7,6 @@
 
 echo Ledblink project
 
-echo Build
+echo Build Number BUILD_NUMBER
+
+echo Compiling project
